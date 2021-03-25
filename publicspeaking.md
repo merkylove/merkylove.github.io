@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Public Speaking
+subtitle: ideos from Tech Conferences and Meet-ups
 ---
-
-# Public Speaking Videos from Tech Conferences and Meet-ups
 
 - PyCon Belarus 2020
   Machine Learning. From an Idea to Production. [RUSSIAN]
