@@ -6,15 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Roman Merkulov
 
 # Your name to show in the footer
-author: Some Person
+author: Roman Merkulov
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  Public Speaking: "publicspeaking"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
