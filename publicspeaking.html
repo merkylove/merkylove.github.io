@@ -6,17 +6,29 @@ subtitle: My small personal page.
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
-
-<div class="posts-list">
-  {% for post in posts %}
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/MUQfKFzIOeU"
+<ul>
+  <li>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MUQfKFzIOeU"
     frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
-  {% endfor %}
-</div>
+    allowfullscreen>
+    </iframe>
+  </li>
+  <li>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MUQfKFzIOeU"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+    </iframe>
+  </li>
+  <li>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MUQfKFzIOeU"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+    </iframe>
+  </li>
+</ul>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
