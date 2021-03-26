@@ -4,7 +4,7 @@ title: Public Speaking
 subtitle: Videos from Tech Conferences and Meet-ups
 ---
 
-- PyCon Belarus 2020
+- *PyCon Belarus 2020*
   
 
   Machine Learning. From an Idea to Production. [RUSSIAN]
@@ -17,7 +17,7 @@ subtitle: Videos from Tech Conferences and Meet-ups
   </iframe>
   </div>
   
-- DataFest Minsk 2019
+- *DataFest Minsk 2019*
   
 
   Latest Trends in Natural Language Processing. [RUSSIAN]
@@ -30,7 +30,7 @@ subtitle: Videos from Tech Conferences and Meet-ups
   </iframe>
   </div>
 
-- Grodno Data Science Meet-up 2019
+- *Grodno Data Science Meet-up 2019*
   
 
   Introduction to Natural Language Processing. [RUSSIAN]
@@ -43,7 +43,7 @@ subtitle: Videos from Tech Conferences and Meet-ups
   </iframe>
   </div>
 
-- AI Day Minsk 2017 
+- *AI Day Minsk 2017*
   
   Time Series Forecasting. [RUSSIAN]
 
@@ -56,7 +56,7 @@ subtitle: Videos from Tech Conferences and Meet-ups
   </iframe>
   </div>
 
-- Belarus Big Data User Group 2015
+- *Belarus Big Data User Group 2015*
   
 
   Predicting Sport Events Outcomes. Machine Learning Approach. [RUSSIAN]
