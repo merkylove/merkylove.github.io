@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Speaking
-subtitle: ideos from Tech Conferences and Meet-ups
+subtitle: Videos from Tech Conferences and Meet-ups
 ---
 
 - PyCon Belarus 2020

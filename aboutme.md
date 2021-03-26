@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Summary
+I'm a Machine Learning Engineer working in the industry from 2014,
+passionate about competitive machine learning, *Kaggle Competitions Master*.
+Mostly interested in NLP, MLOps and Business Applications of Machine Learning.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Professional Experience
+- Artificial Intelligence Engineer, [LinkedIn](https://www.linkedin.com/) (Aug 2020 - Present)
+- Senior Machine Learning Engineer, [Flo Health](https://flo.health/) (Oct 2019 - Aug 2020)
+- Head of Machine Learning, Influenceye (Apr 2017 - May 2019)
+- MLE / Lead MLE, [InData Labs](https://indatalabs.com/) (Jun 2015 - Oct 2019)
+- Software Engineer, [IBA Group](https://ibagroupit.com/) (May 2014 - Jun 2015)
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Education
+- PhD Student, Belarusian State University. 
+  Working on State Space Modeling for Panel Data Time Series Analysis 
+  with signal distortions and missing values.
+  
+- Master's Degree, Belarusian State University, 
+  Applied Mathematics and Computer Science
+  
+- Bachelor's Degree, Belarusian State University, Economic Cybernetics
