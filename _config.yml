@@ -16,6 +16,7 @@ author: Roman Merkulov
 navbar-links:
   About Me: "aboutme"
   Public Speaking: "publicspeaking"
+  Tags: "tags.html"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
