@@ -17,7 +17,10 @@ This work was recognized as a [Visualization of the Week](https://insidebigdata.
 according to the [Inside Big Data portal](https://insidebigdata.com/).
 
 
-<div class="map-container">
-    <iframe src="https://indatalabs.com/discover-hong-kong-through-the-lense-of-instagram" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+[comment]: <> (<div class="map-container">)
+
+[comment]: <> (    <iframe src="https://indatalabs.com/discover-hong-kong-through-the-lense-of-instagram" height="315" width="560" allowfullscreen="" frameborder="0">)
+
+[comment]: <> (    </iframe>)
+
+[comment]: <> (</div>)
