@@ -18,7 +18,7 @@ according to the [Inside Big Data portal](https://insidebigdata.com/){:target="_
 [Try it](https://indatalabs.com/discover-hong-kong-through-the-lense-of-instagram){:target="_blank"} yourself!
 
 <div id="html2">
-    <iframe width="80%" height="80%" src="https://indatalabs.com/map-hongkong/"
+    <iframe width="1120" height="630" src="https://indatalabs.com/map-hongkong/"
     frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
