@@ -92,7 +92,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "ai, ml, artificial intelligence, machine learning, data analytics, predictive analytics, data visualization, data science, business intelligence, big data, natural language processing, nlp, computer vision, cv, time series, forecasting, reinforcement learning, rl, bayesian, data engineering, spark"
 
 # --- Colours / background image --- #
 
