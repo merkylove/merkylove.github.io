@@ -7,4 +7,4 @@ tags: [supeset, apache superset, data visualization, business intelligence, bi]
 comments: true
 ---
 
-Here's a [link to my blog post](https://indatalabs.com/blog/open-source-data-visualization-tool-superset) about building Marketing Reports ecosystem with Apache Superset.
+Here's a [link to my blog post](https://indatalabs.com/blog/open-source-data-visualization-tool-superset){:target="_blank"} about building Marketing Reports ecosystem with Apache Superset.

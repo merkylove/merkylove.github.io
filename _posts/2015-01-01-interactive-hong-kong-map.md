@@ -12,8 +12,8 @@ in Hong Kong with respect to users demographic characteristics, popular brands m
 and aspect-based sentiment analysis.
 
 
-This work was recognized as a [Visualization of the Week](https://insidebigdata.com/2016/02/03/visualization-of-the-week-hong-kong-social-media-data-map/) 
-according to the [Inside Big Data portal](https://insidebigdata.com/).
+This work was recognized as a [Visualization of the Week](https://insidebigdata.com/2016/02/03/visualization-of-the-week-hong-kong-social-media-data-map/){:target="_blank"}
+according to the [Inside Big Data portal](https://insidebigdata.com/){:target="_blank"}.
 
 
 <div id="html2">
