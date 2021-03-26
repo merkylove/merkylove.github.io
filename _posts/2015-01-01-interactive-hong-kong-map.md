@@ -17,18 +17,9 @@ according to the [Inside Big Data portal](https://insidebigdata.com/){:target="_
 
 
 <div id="html2">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7T421QejHUM"
+    <iframe width="560" height="315" src="https://indatalabs.com/discover-hong-kong-through-the-lense-of-instagram"
     frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
     </iframe>
 </div>
-
-
-[comment]: <> (<div class="map-container">)
-
-[comment]: <> (    <iframe src="https://indatalabs.com/discover-hong-kong-through-the-lense-of-instagram" height="315" width="560" allowfullscreen="" frameborder="0">)
-
-[comment]: <> (    </iframe>)
-
-[comment]: <> (</div>)
