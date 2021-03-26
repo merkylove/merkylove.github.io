@@ -4,8 +4,7 @@ title: Interactive Map of Hong Kong
 subtitle: Hong-Kong through The Lense of Instagram
 cover-img: /assets/img/hong_kong_instagram.png
 thumbnail-img: /assets/img/hong_kong_instagram.png
-tags: [geo, data visualization, nlp, natural language processing, 
-social networks analytics, leaflet.js, leaflet]
+tags: [geo, data visualization, nlp, natural language processing, social networks analytics, leaflet.js, leaflet]
 ---
 
 Unique Research that provides an interactive tool to visualize Instagram activity
@@ -15,6 +14,15 @@ and aspect-based sentiment analysis.
 
 This work was recognized as a [Visualization of the Week](https://insidebigdata.com/2016/02/03/visualization-of-the-week-hong-kong-social-media-data-map/) 
 according to the [Inside Big Data portal](https://insidebigdata.com/).
+
+
+<div id="html2">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7T421QejHUM"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+    </iframe>
+</div>
 
 
 [comment]: <> (<div class="map-container">)
